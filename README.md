@@ -1,6 +1,8 @@
 # modular-opengl-3d-scene
 A modular C++ OpenGL 3D scene recreating a real-world desk environment, featuring low-polygon models, projected textures, Phong shading, multi-light configuration, and interactive camera navigation.
 
+PROJECT ZIP TOO LARGE TO UPLOAD AS A FILE. PROJECT IS UPLOADED AS A RELEASE!
+
 1. How do I approach designing software?
    What new design skills has your work on the project helped you to craft?
 
